@@ -1,7 +1,7 @@
 {
-  "short_name": "JupyterLite",
-  "name": "JupyterLite",
-  "description": "WASM powered JupyterLite app",
+  "short_name": "Ocriteria",
+  "name": "Ocriteria",
+  "description": "WASM powered Ocriteria app",
   "icons": [
     {
       "src": "./icon-120x120.png",
@@ -19,14 +19,14 @@
   "scope": "./",
   "shortcuts" : [
     {
-      "name": "JupyterLite",
-      "url": "/lab",
-      "description": "The main JupyterLite application"
+      "name": "Ocriteria",
+      "url": "/tree",
+      "description": "The main Ocriteria application"
     },
     {
       "name": "Replite",
       "url": "/repl?toolbar=1",
-      "description": "A single-cell interface for JupyterLite"
+      "description": "A single-cell interface for Ocriteria"
     }
   ]
 }
