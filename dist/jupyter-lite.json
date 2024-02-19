@@ -1,7 +1,7 @@
 {
   "jupyter-config-data": {
     "appName": "JupyterLite",
-    "appUrl": "./lab",
+    "appUrl": "./tree",
     "appVersion": "0.2.3",
     "baseUrl": "./",
     "defaultKernelName": "python",
