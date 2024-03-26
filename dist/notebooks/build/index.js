@@ -572,7 +572,7 @@ export async function main() {
   if (exposeAppInBrowser) {
     window.jupyterapp = app;
   }
-
+  console.log("Notebook index JS loaded");
   /* eslint-disable no-console */
   await app.start();
   await app.restored;
